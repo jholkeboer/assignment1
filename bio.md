@@ -4,3 +4,5 @@ Height: 5'10''
 Computer: Macbook Pro
 
 # Programming Background
+
+Commit 1: Most of my background is in C++ and Python
